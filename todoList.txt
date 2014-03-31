@@ -1,0 +1,9 @@
+- finish code academy lesson on css
+- finish css section on lwd4e: Chap 11-18
+
+- expose all divs in css
+- css : flesh out layout
+- css : code behavior for switching divs
+- css : finalize color, fonts, element sizes
+- html : improve content
+

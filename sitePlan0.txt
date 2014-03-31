@@ -1,0 +1,62 @@
+- use helvetica neue
+
+content
+-----------------
+- Resume
+	Work Experience
+	Skillset
+	Other skills
+	Education
+	the spin
+	printer friendly CV format
+
+- About Me
+	- Who I am
+	- What I currently do
+	- I am going to be...
+		- In the next three months
+			- what I want to be
+			- what I want to have
+			- where I want to be
+		- In the next three years
+			- what I want to be
+			- what I want to have
+			- where I want to be		
+	- How I'm getting there
+
+- References
+- Portfolio
+- Contact
+	- On the map
+	- Get in touch
+	- Address
+
+
+pages
+-------------------
+I. Home
+	- Header
+		- logo
+		- menu nav
+			- About
+			- CV (prospective) 
+			- Portfolio
+			- Contact
+		- contact
+	- body 
+		- Who I am
+			- subsections
+		- Employers, right this way please.
+			- subsections 
+		- Obra Maestra
+			- subsections
+		- In propria persona
+			- subsections 
+	- footer
+II. CV
+		header
+		body
+
+
+		footer
+

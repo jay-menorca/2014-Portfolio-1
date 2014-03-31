@@ -1,0 +1,15 @@
+content
+-----------------
+1. CV
+2. Portfolio
+3. Blog
+4. About Me
+5. Personals
+5. References
+6. Discussion
+
+
+pages
+-------------------
+I. Home
+II. 
